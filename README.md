@@ -15,6 +15,10 @@ Connected multi organizer that can be printed in vase mode. Fully customizable.
 ### Sponge holder
 Kitchen sponge drainer holder wall mount. 
 
+
+
+
+ > stl files also included. if you want to print the default versions.
 #### Images coming soon. 
 
 
